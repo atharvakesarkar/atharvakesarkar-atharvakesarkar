@@ -1,26 +1,32 @@
-# Hey there, I'm Atharva Kesarkar! 👋  
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Atharva%20Kesarkar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-### Aspiring Software Developer | AI & Data Science Student  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI+%26+Data+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Building+DivyaDrishti+🌍" />
+</p>
 
 ---
 
 ## 🚀 About Me  
-I'm an AI & Data Science student passionate about building impactful solutions with **data, AI, and web technologies**.  
-Currently working on **DivyaDrishti** – a real-time pollution detection platform.  
+I'm a passionate **AI & Data Science student** who loves building projects that make a real-world impact 🌍.  
+Currently, I’m working on **DivyaDrishti** – a real-time pollution detection system combining IoT & Web.  
 
-- 🔭 **Currently Building:** Real-time web & IoT-based applications  
-- 🌱 **Learning:** Advanced Python, AI, and scalable web apps  
-- 🤝 **Open to:** Collaborations, internships, and innovative projects  
-- 🎯 **Goal:** Create impactful technology for a sustainable future  
+- 🔭 **Currently Building:** Scalable AI & IoT-powered web apps  
+- 🌱 **Learning:** ML algorithms, APIs, cloud deployment  
+- 🤝 **Open to:** Collaborations, research, and innovative internships  
+- 🎯 **Mission:** Tech for a cleaner & sustainable future 🌱  
 
 ---
 
-## 🛠 Tech Arsenal  
+## ⚡ Tech Arsenal  
 
-### 💻 Programming Languages  
+### 💻 Programming & Scripting  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ### 🤖 AI & Data Science  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -30,7 +36,8 @@ Currently working on **DivyaDrishti** – a real-time pollution detection platfo
 ### 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)  
+![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -41,19 +48,35 @@ Currently working on **DivyaDrishti** – a real-time pollution detection platfo
 ---
 
 ## 📌 Featured Projects  
-🔹 [**DivyaDrishti**](https://github.com/atharvakesarkar/DivyaDrishti) → Real-time air quality monitoring web app  
-🔹 [**DivyaDrishti Official Website**](https://github.com/atharvakesarkar/Divyadrishti_official_website) → IoT-powered platform with health insights  
-🔹 [**Portfolio Website**](https://github.com/atharvakesarkar/portfolio-website) → Personal site showcasing my projects  
+🔹 [**DivyaDrishti**](https://github.com/atharvakesarkar/DivyaDrishti) → Real-time pollution detection system 🌍  
+🔹 [**DivyaDrishti Website**](https://github.com/atharvakesarkar/Divyadrishti_official_website) → Web showcase with AQI insights 📊  
+🔹 [**Portfolio Website**](https://github.com/atharvakesarkar/portfolio-website) → My professional portfolio 🚀  
 
 ---
 
-## 📊 GitHub Stats  
-![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=tokyonight)  
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakesarkar&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
-📎 [LinkedIn](https://www.linkedin.com) (add your link)  
-🌍 [Portfolio Website](https://your-portfolio-link.com)  
-📷 [Instagram – @divyadrishti_official](https://instagram.com/divyadrishti_official)  
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/divyadrishti_official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/atharvakesarkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+</p>
