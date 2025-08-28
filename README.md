@@ -1,87 +1,169 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Atharva%20Kesarkar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+Atharva Kesarkar: Architecting Digital Futures 🚀
+Innovating at the intersection of web, AI, and scalable backend solutions.
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;Aspiring+Software+Developer;Web+Developer+%7C+Open+Source+Enthusiast;Building+Impactful+Solutions+for+Real-World+Problems" />
-</p>
+Table of Contents
+Vision: Beyond Code, Towards Impactful Solutions 💡
 
----
+Technical Mastery: Crafting Excellence Across the Stack 💻
 
-## 🚀 About Me  
+Front-End Fortitude
 
-I’m **Atharva Kesarkar**, an **AI & Data Science student** and **aspiring software developer** passionate about solving real-world challenges through technology 🌍.  
+Back-End Backbone
 
-Currently, I’m working on **DivyaDrishti** – an **affordable IoT-powered pollution detection system**, blending AI + IoT + Web to fight environmental issues.  
+Data Domination
 
-- 🔭 **Current Focus:** AI-driven solutions, IoT integration, and scalable web apps  
-- 🌱 **Learning:** Machine Learning algorithms, APIs, and cloud deployment  
-- 🏐 **Beyond Tech:** Gold Medalist 🥇 in the *12th National Volleyball Championship (Junior Level)*  
-- 🎯 **Mission:** Building tech for a sustainable & cleaner future 🌱  
+Development Ecosystem
 
----
+Key Skills Snapshot 🎯
 
-## ⚡ Tech Arsenal  
+Select Engagements & Innovations 🌟
 
-### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+Experience Arc: Shaping the Future of Tech 🛤️
 
-### 🤖 AI & Data Science  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+Academic & Certifications: Foundations of Innovation 🎓
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+Future Endeavors & Aspirations ✨
 
-### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)  
+Connect & Collaborate 🤝
 
----
+Vision: Beyond Code, Towards Impactful Solutions 💡
+As CEO & Co-Founder at Divyadrishti and a dedicated Software Developer, I am driven by a singular mission: to architect impactful digital solutions that resolve real-world challenges. My expertise spans full-stack development, AI/ML integration, and robust backend engineering, always prioritizing scalable, user-centric design and cutting-edge technological application.
 
-## 📌 Featured Projects  
+I translate complex ideas into seamless, functional realities, whether crafting responsive web platforms, intelligent systems, or robust APIs. My work is a testament to blending innovative design with pragmatic engineering, fostering smarter digital ecosystems.
 
-🔹 [**DivyaDrishti**](https://github.com/atharvakesarkar/DivyaDrishti) → IoT + AI-powered real-time pollution detection system 🌍  
-🔹 [**DivyaDrishti Website**](https://github.com/atharvakesarkar/Divyadrishti_official_website) → Official web showcase with AQI insights 📊  
-🔹 [**Portfolio Website**](https://github.com/atharvakesarkar/portfolio-website) → Futuristic personal portfolio 🚀  
+Technical Mastery: Crafting Excellence Across the Stack 💻
+My proficiency encompasses a dynamic array of technologies, enabling me to deliver end-to-end solutions.
 
----
+Front-End Fortitude:
+HTML5, CSS3, JavaScript (ES6+): Semantic markup, responsive layouts, and interactive client-side logic.
 
-## 📊 GitHub Analytics  
+React: Building modern, component-based user interfaces with optimal performance.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+WebRTC: Exploring real-time communication protocols for dynamic web applications.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakesarkar&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+Back-End Backbone:
+Python: Primary language for backend logic, AI/ML, and data processing.
 
----
+Node.js (Express): Developing scalable server-side applications and RESTful APIs.
 
-## 🌐 Connect With Me  
+Java: Object-oriented programming for enterprise-level applications and robust systems.
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/divyadrishti_official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/atharvakesarkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:kesarkaratharva24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Data Domination:
+SQL, PostgreSQL: Relational database design, query optimization, and data management.
 
----
+MongoDB: NoSQL database solutions for flexible and scalable data storage.
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
-</p>
+DBMS: Comprehensive understanding of Database Management Systems principles.
+
+Development Ecosystem:
+MERN Stack: Full-stack development using MongoDB, Express.js, React, and Node.js.
+
+Git & GitHub: Advanced version control, collaborative development, and CI/CD workflows.
+
+Docker, Kubernetes: Containerization and orchestration for resilient, scalable deployments.
+
+AWS Constructs: Fundamental understanding of cloud infrastructure components.
+
+Data Structures & Algorithms (DSA): Core competency in optimizing code for efficiency and performance.
+
+Key Skills Snapshot 🎯
+A quick overview of my core competencies:
+
+Full-Stack Development: Seamlessly bridging front-end aesthetics with robust backend logic.
+
+AI/ML Integration: Developing intelligent systems, from Computer Vision (OpenCV) to Deep Learning (TensorFlow).
+
+API Design & Integration: Crafting and consuming secure, efficient RESTful APIs.
+
+Cloud & DevOps Fundamentals: Experience with Docker, Kubernetes, and AWS Constructs for scalable deployments.
+
+Problem-Solving: A strong analytical mindset to tackle complex technical challenges.
+
+Team Leadership: Guiding and collaborating with development teams to achieve project goals.
+
+Select Engagements & Innovations 🌟
+Here's a glimpse into projects where I've leveraged my technical acumen to deliver tangible results:
+
+DivyaDrishti Web Application (Full-Stack Pollution Monitoring)
+Role: CEO, Co-Founder & Backend Developer
+
+Tech Stack: Flask (Python), MongoDB, React, Node.js, IoT, APIs
+
+Impact: Led a 5-member team to develop a real-time pollution monitoring platform, integrating IoT data, vehicular emissions, and industrial outputs. Implemented an AI-powered chatbot for insights and eco-friendly recommendations. Deployed with continuous integration on Netlify and GitHub Pages.
+
+AI Fitness Advisor (Intelligent Workout Recommendations)
+Role: AI/ML Developer
+
+Tech Stack: Python, TensorFlow, Flask
+
+Impact: Developed a smart system providing personalized workout recommendations based on AI logic, demonstrating practical application of machine learning.
+
+Document Intelligence System (OCR & NLP for Data Extraction)
+Role: AI Developer
+
+Tech Stack: Python, OCR, NLP, Flask
+
+Impact: Engineered an AI-powered system to extract, analyze, and classify critical data from diverse documents (invoices, IDs) using advanced OCR and Natural Language Processing techniques.
+
+Gesture-Controlled Application (Computer Vision Interaction)
+Role: AI Developer
+
+Tech Stack: Python, OpenCV, Machine Learning
+
+Impact: An innovative project leveraging computer vision to enable control through hand gestures, showcasing expertise in real-time interaction and ML.
+
+Experience Arc: Shaping the Future of Tech 🛤️
+CEO, Co-founder & Back-end developer - DivyaDrishti (June 2025 - Present)
+
+Spearheading product development, team leadership, and strategic technical direction.
+
+Architecting scalable backend infrastructure and integrating real-time data pipelines.
+
+Assistant Teacher - Smart-Byte Computer Classes (April 2025 - Present)
+
+Mentoring future developers in Python, HTML, CSS, JavaScript, and SQL.
+
+Cultivating strong fundamentals and problem-solving skills through hands-on projects.
+
+Freelance Developer - MJ Consultancy (May 2025 - June 2025)
+
+Delivered a responsive business consultancy website, focusing on clean UI/UX and client collaboration.
+
+Academic & Certifications: Foundations of Innovation 🎓
+B.Voc in AI & Data Science - Thakur College of Engineering & Technology (2023 - 2026)
+
+Key Courses: Machine Learning, Deep Learning, Data Structures, Algorithms, Web Development, Database Management.
+
+Certifications:
+
+Full-Stack Web Development (MERN) - Apna College
+
+DSA & Advanced DSA in Java - Apna College
+
+Microsoft Office Specialist: Excel Associate (Office 2019)
+
+Python - OneRoadmap
+
+Basics of AI - HP LIFE
+
+Future Endeavors & Aspirations ✨
+Constantly pushing the boundaries of what's possible, my future focus areas include:
+
+Advanced AI/ML Applications: Diving deeper into Generative AI, Reinforcement Learning, and ethical AI development.
+
+Scalable Cloud Architectures: Mastering AWS/Azure/GCP for highly available and fault-tolerant systems.
+
+Open Source Contributions: Actively contributing to impactful open-source projects and fostering community growth.
+
+Mentorship & Knowledge Sharing: Empowering the next generation of developers through education and collaboration.
+
+Connect & Collaborate 🤝
+I am always keen to engage in new challenges, innovative collaborations, and meaningful conversations. Whether you have a groundbreaking project, a technical query, or just want to discuss the future of technology, feel free to reach out!
+
+Email: kesarkaratharva24@gmail.com
+
+Phone: +91 9820919318
+
+Location: Mumbai, India
+
+Let's build the future, one impactful line of code at a time.
