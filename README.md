@@ -5,19 +5,21 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;AI+%26+Data+Science+Student;Web+Developer+%7C+Open+Source+Enthusiast;Building+DivyaDrishti+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;Aspiring+Software+Developer;Web+Developer+%7C+Open+Source+Enthusiast;Building+Impactful+Solutions+for+Real-World+Problems" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-I'm a passionate **AI & Data Science student** who loves building projects that make a real-world impact 🌍.  
-Currently, I’m working on **DivyaDrishti** – a real-time pollution detection system combining IoT & Web.  
 
-- 🔭 **Currently Building:** Scalable AI & IoT-powered web apps  
-- 🌱 **Learning:** ML algorithms, APIs, cloud deployment  
-- 🤝 **Open to:** Collaborations, research, and innovative internships  
-- 🎯 **Mission:** Tech for a cleaner & sustainable future 🌱  
+I’m **Atharva Kesarkar**, an **AI & Data Science student** and **aspiring software developer** passionate about solving real-world challenges through technology 🌍.  
+
+Currently, I’m working on **DivyaDrishti** – an **affordable IoT-powered pollution detection system**, blending AI + IoT + Web to fight environmental issues.  
+
+- 🔭 **Current Focus:** AI-driven solutions, IoT integration, and scalable web apps  
+- 🌱 **Learning:** Machine Learning algorithms, APIs, and cloud deployment  
+- 🏐 **Beyond Tech:** Gold Medalist 🥇 in the *12th National Volleyball Championship (Junior Level)*  
+- 🎯 **Mission:** Building tech for a sustainable & cleaner future 🌱  
 
 ---
 
@@ -48,30 +50,33 @@ Currently, I’m working on **DivyaDrishti** – a real-time pollution detection
 ---
 
 ## 📌 Featured Projects  
-🔹 [**DivyaDrishti**](https://github.com/atharvakesarkar/DivyaDrishti) → Real-time pollution detection system 🌍  
-🔹 [**DivyaDrishti Website**](https://github.com/atharvakesarkar/Divyadrishti_official_website) → Web showcase with AQI insights 📊  
-🔹 [**Portfolio Website**](https://github.com/atharvakesarkar/portfolio-website) → My professional portfolio 🚀  
+
+🔹 [**DivyaDrishti**](https://github.com/atharvakesarkar/DivyaDrishti) → IoT + AI-powered real-time pollution detection system 🌍  
+🔹 [**DivyaDrishti Website**](https://github.com/atharvakesarkar/Divyadrishti_official_website) → Official web showcase with AQI insights 📊  
+🔹 [**Portfolio Website**](https://github.com/atharvakesarkar/portfolio-website) → Futuristic personal portfolio 🚀  
 
 ---
 
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvakesarkar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvakesarkar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakesarkar&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvakesarkar&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+
+<p align="center">
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/divyadrishti_official" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://github.com/atharvakesarkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:kesarkaratharva24@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
