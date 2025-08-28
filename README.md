@@ -1,15 +1,8 @@
-<!--
-Profile README for GitHub user: atharvakesarkar
-Place this file in a repository named exactly the same as your username:
-atharvakesarkar/atharvakesarkar
--->
+
 
 <!-- Futuristic Neon Banner -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/premium-vector/abstract-futuristic-neon-cyber-lines-background_1017-45432.jpg?w=1400">
-    <img width="100%" height="auto" alt="Futuristic neon abstract header" src="https://img.freepik.com/premium-vector/abstract-futuristic-neon-cyber-lines-background_1017-45432.jpg?w=1400">
-  </picture>
+
   <h1 style="margin-top:-3.2rem; font-family: 'Poppins', sans-serif; font-weight:700; font-size:3rem;">
     <span style="background:linear-gradient(90deg,#00ffd5,#0077ff,#8a2be2); -webkit-background-clip:text; color:transparent;">
       Hi, I'm Atharva Kesarkar 👋
